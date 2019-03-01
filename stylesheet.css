@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "monospace";
+	src: url(font/monospace.ttf) format("truetype");
+}
+
+html, body
+{
+	width: 670px;
+	margin: auto;
+	padding: 0px 10px;
+	font-size: 18px;
+	line-height: 1.6;
+}
+
+.height
+{
+	font-family: monospace;
+}
